@@ -8,9 +8,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://fivem.net/).
+- 🔭 I’m currently working on [Fivem](https://fivem.net/).
 - 🌱 I’m currently learning more about Flutter and more.
-- 👯 I’m running a gaming server now (temporarily down due to some serious bug)[server web](https://liferesort.xnor-development).
+- 👯 I’m running a gaming server now (temporarily down due to some serious bug) [Server web] (https://liferesort.xnor-development).
 - 🤔 I’m looking for help with Flutter documentation.
 - 💬 discussing Lua or any tech-related stuff with me.
 - 📫 How to reach me: [Discord - XNORGATE#3514](https://discord.gg/QuNH8cYbbP)
