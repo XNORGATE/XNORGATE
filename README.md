@@ -30,17 +30,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>   
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/XNORGATE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNORGATE&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/XNORGATE">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XNORGATE&show_icons=true&theme=light&line_height=27" alt="XNORGATE's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
+<a href="https://github.com/XNORGATE/showcar-standalone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XNORGATE&repo=showcar-standalone&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
+<a href="https://github.com/XNORGATE/ESP8266-TO-WEBSERVER">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XNORGATE&repo=ESP8266-TO-WEBSERVER&theme=light" />
 </a>
 
