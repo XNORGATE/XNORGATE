@@ -8,12 +8,12 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Fivem](https://fivem.net/).
-- 🌱 I’m currently learning more about Flutter and more.
+- 🔭 I’m worked on Fivem for 2 years [Fivem](https://fivem.net/).
+- 🌱 I’m currently learning Flutter and Dart.
 - 👯 I’m running a gaming server now (temporarily down due to some serious bug) [Server web] (https://liferesort.xnor-development.com).
-- 🤔 I’m looking for help with Flutter documentation.
-- 💬 discussing Lua or any tech-related stuff with me.
-- 📫 How to reach me: [Discord - XNORGATE#3514](https://discord.gg/QuNH8cYbbP)
+- 🤔 I’m looking for help with UI/UX.
+- 💬 discussing anything stuff with me.
+- 📫 How to reach me: [Discord - XNORGATE#3514]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a guy that can't understand thingz first.
 
