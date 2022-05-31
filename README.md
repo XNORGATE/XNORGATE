@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-
+- ❤ [Profile](https://xnor-development.com/).
 - 🔭 I’m worked on Fivem for 2 years [Fivem](https://fivem.net/).
 - 🌱 I’m currently learning Flutter and Dart.
 - 👯 I’m running a gaming server now (temporarily down due to some serious bug) [Server web] (https://liferesort.xnor-development.com).
