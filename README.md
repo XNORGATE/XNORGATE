@@ -7,16 +7,16 @@
 <br/>
 <br/>
 
-- ❤ [Profile](https://xnor-development.com/).
+- ❤ [Personal Profile](https://xnor-development.com/).
 - 🔭 I’m worked on Fivem for 2 years [Fivem](https://fivem.net/).
-- 🌱 I’m currently learning Flutter and Dart.
-- 👯 I’m running a gaming server now (temporarily down due to some serious bug) [Server web] (https://liferesort.xnor-development.com).
-- 🤔 I’m looking for help with UI/UX.
-- 💬 discussing anything stuff with me.
+- 🌱 I’m currently learning Flutter, Dart, React and anything related to web / web app.
+<!-- - 👯 I’m running a gaming server now (temporarily down due to some serious bug) [Server web] (https://liferesort.xnor-development.com). -->
+<!-- - 🤔 I’m looking for help with UI/UX. -->
+<!-- - 💬 discussing anything stuff with me. -->
 - 📫 How to reach me: [Discord - XNORGATE#3514]
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a guy that can't understand thingz first.
-
+<!-- - ⚡ Fun fact: I'm a guy that can't understand thingz first.
+ -->
 [![GitHub XNORGATE](https://img.shields.io/github/followers/XNORGATE?label=follow&style=social)](https://github.com/XNORGATE)
 
 
