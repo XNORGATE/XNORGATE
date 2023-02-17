@@ -36,14 +36,14 @@
 <a href="https://github.com/XNORGATE">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XNORGATE&show_icons=true&theme=light&line_height=27" alt="XNORGATE's github stats"/>
 </a>
-<a href="https://github.com/XNORGATE/showcar-standalone">
+<!-- <a href="https://github.com/XNORGATE/showcar-standalone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XNORGATE&repo=showcar-standalone&theme=light" />
 
 </a>
 <a href="https://github.com/XNORGATE/ESP8266-TO-WEBSERVER">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XNORGATE&repo=ESP8266-TO-WEBSERVER&theme=light" />
 </a>
-
+ -->
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
