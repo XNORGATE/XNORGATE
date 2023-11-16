@@ -8,7 +8,8 @@
 <br/>
 
 - ❤ [Personal Profile](https://xnor-development.com/).
-- 🔭 I’m worked on Fivem for 2 years [Fivem](https://fivem.net/).
+- 🪪 I'm a junior year student currently study in uni
+- 🔭 I’ve worked on Fivem for 2 years before[Fivem](https://fivem.net/).
 - 🌱 Currently learning Flutter, Dart, and things related to web / web app, Also peek in DL, Generative ai, LLM.
 <!-- - 👯 I’m running a gaming server now (temporarily down due to some serious bug) [Server web] (https://liferesort.xnor-development.com). -->
 <!-- - 🤔 I’m looking for help with UI/UX. -->
