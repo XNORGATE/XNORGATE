@@ -9,7 +9,7 @@
 
 - ❤ [Personal Profile](https://xnor-development.com/).
 - 🔭 I’m worked on Fivem for 2 years [Fivem](https://fivem.net/).
-- 🌱 I’m currently learning Flutter, Dart, React and anything related to web / web app.
+- 🌱 Currently learning Flutter, Dart, and things related to web / web app, Also peek in DL, Generative ai, LLM.
 <!-- - 👯 I’m running a gaming server now (temporarily down due to some serious bug) [Server web] (https://liferesort.xnor-development.com). -->
 <!-- - 🤔 I’m looking for help with UI/UX. -->
 <!-- - 💬 discussing anything stuff with me. -->
